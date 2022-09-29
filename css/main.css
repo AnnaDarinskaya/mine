@@ -198,3 +198,80 @@ body {
 .card-button-icon {
     margin-right: 4px;
 }
+
+.developer {
+    display: flex;
+    align-items: center;
+}
+
+.developer-photo {
+    width: 360px;
+    height: 440px;
+    flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.developer-about {
+    margin-left: 55px;
+    padding: 80px 0 20px;
+}
+
+.developer-hello {
+    Font-size: 24px;
+    Line-height: 32px;
+    Line-height: 135%;
+    Letter-spacing: -2%;
+    color: #211B12;
+    margin-bottom: 4px;
+
+}
+
+.developer-title {
+    Font-style: Bold;
+    Font-size: 32px;
+    Line-height: 40px;
+    Line-height: 125%;
+    Letter-spacing: -3%;
+    color: #BF7506;
+    margin-bottom: 16px;
+    margin-top: 0;
+}
+
+.developer-text {
+    Font-style: Regular;
+    Font-size: 16px;
+    Line-height: 24px;
+    Line-height: 150%;
+    color: #211B12;
+    margin-bottom: 16px;
+
+}
+
+.motto {
+    Font-family: Helvetica;
+    Font-style: Regular;
+    Font-size: 24px;
+    Line-height: 36px;
+    Line-height: 150%;
+    color: #DD9C3C;
+}
+
+.developer-signe {
+    margin-top: 6px;
+}
+
+.skills-title {
+    Font-style: Bold;
+    Font-size: 24px;
+    Line-height: 32px;
+    Line-height: 135%;
+    Letter-spacing: -2%;
+}
+
+.skills-tag {
+    Font-size: 16px;
+    Line-height: 24px;
+    Line-height: 150%;
+    -
+}
