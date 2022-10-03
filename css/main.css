@@ -102,7 +102,7 @@ body {
     line-height: 150%;
     color: #211B12;
     border-bottom: 2px solid #BF7506;
-    ;
+
 }
 
 .cv-downloade {
@@ -273,5 +273,68 @@ body {
     Font-size: 16px;
     Line-height: 24px;
     Line-height: 150%;
-    -
+
+}
+
+.feedback {
+    padding: 80px 0 160px;
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 24px;
+}
+
+.input-label {
+    position: absolute;
+    Font-size: 16px;
+    Line-height: 24px;
+    Line-height: 150%;
+    color: #83807C;
+    padding: 0 8px;
+    background-color: #fff;
+    top: 0;
+    left: 16px;
+
+}
+
+.input-group {
+    padding-top: 9px;
+}
+
+
+.input {
+    border: 3px solid #E0DEDC;
+    border-radius: 4px;
+    width: 435px;
+    height: 56px;
+}
+
+.textarea {
+    min-height: 140px;
+}
+
+.form-container {
+    max-width: 435px;
+    margin: auto;
+}
+
+.button-group {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.submit-button {
+    display: flex;
+    align-items: center;
+    padding: 7px 8px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    border: none;
+    color: #211B12;
+    border-bottom: 2px solid #BF7506;
+    background-color: #fff;
+    cursor: pointer;
 }
